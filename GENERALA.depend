@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1658112415 source:c:\users\willy\desktop\utn\- laboratorio de computacion\trabajo practico integrador\generala - willian\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	"windows.h"
+	"rlutil.h"
+	"funciones.h"
+	"jugadores.h"
+
+1656886324 c:\users\willy\desktop\utn\- laboratorio de computacion\trabajo practico integrador\generala - willian\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1658107621 c:\users\willy\desktop\utn\- laboratorio de computacion\trabajo practico integrador\generala - willian\funciones.h
+	<string.h>
+	"rlutil.h"
+
+1658110124 c:\users\willy\desktop\utn\- laboratorio de computacion\trabajo practico integrador\generala - willian\jugadores.h
+	"rlutil.h"
+	"windows.h"
+
